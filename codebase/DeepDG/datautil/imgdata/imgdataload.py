@@ -13,16 +13,7 @@ from torchvision.datasets.folder import default_loader
 import pandas as pd
 from torch.utils.data import Dataset
 
-from mmap_ninja.ragged import RaggedMmap
 from icecream import ic
-
-# import util as imgutil
-# from util import rgb_loader, l_loader
-# def Nmax(test_envs, d):
-#     for i in range(len(test_envs)):
-#         if d < test_envs[i]:
-#             return i
-#     return len(test_envs)
 
 def read_csv(filename, dataset, num_classes=3):
     print('------------read csv-------------')
