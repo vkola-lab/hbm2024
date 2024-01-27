@@ -1,4 +1,4 @@
-# Disease-driven domain generalization (D3G) for neuroimaging-based assessment of Alzheimer's disease
+# Disease-driven domain generalization for neuroimaging-based assessment of Alzheimer's disease
 <i>Diala Lteif, Sandeep Sreerama, Sarah A. Bargal, Bryan A. Plummer, Rhoda Au, and Vijaya B. Kolachalama</i>
 
 ## Introduction
