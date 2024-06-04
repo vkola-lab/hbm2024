@@ -1,5 +1,6 @@
 # Disease-driven domain generalization for neuroimaging-based assessment of Alzheimer's disease
-<i>Diala Lteif, Sandeep Sreerama, Sarah A. Bargal, Bryan A. Plummer, Rhoda Au, and Vijaya B. Kolachalama</i>
+
+This work is published in _Human Brain Mapping_ (https://doi.org/10.1002/hbm.26707).
 
 ## Introduction
 
